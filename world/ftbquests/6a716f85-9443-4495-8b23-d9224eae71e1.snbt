@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "6a716f85944344958b23d9224eae71e1"
+	name: "Jorughen"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1752946857500L
+		6F010E22CD886969: 1752946857500L
+		0000000000000001: 1752946857500L
+		744084D7C7EA8A6C: 1752946857500L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1752946857501L
+		6F010E22CD886969: 1752946857501L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
