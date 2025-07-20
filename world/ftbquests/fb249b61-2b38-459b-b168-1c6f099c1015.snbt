@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "fb249b612b38459bb1681c6f099c1015"
+	name: "Estupid_Ninja"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1752900201610L
+		6F010E22CD886969: 1752900201610L
+		0000000000000001: 1752900201610L
+		744084D7C7EA8A6C: 1752900201610L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1752900201610L
+		6F010E22CD886969: 1752900201610L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

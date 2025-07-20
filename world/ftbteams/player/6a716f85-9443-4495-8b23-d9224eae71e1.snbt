@@ -2,13 +2,11 @@
 	id: "6a716f85-9443-4495-8b23-d9224eae71e1"
 	type: "player"
 	player_name: "Jorughen"
-	ranks: {
-		6a716f85-9443-4495-8b23-d9224eae71e1: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Jorughen"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59FF70"
+		"ftbteams:color": "#59ACFF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
